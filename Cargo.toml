@@ -1,6 +1,6 @@
 [package]
 name = "http_client-gpui-standalone"
-version = "1.5.3"
+version = "1.5.4"
 license = "Apache-2.0"
 description = "A HTTP client library for Zed and GPUI"
 edition = "2024"
@@ -34,4 +34,4 @@ async-fs = "^2.1"
 async-tar = "^0.5.1"
 sha2 = "^0.10"
 tempfile = "^3.20.0"
-util = {package = "util-gpui-standalone", version = "1.5.3"}
+util = {package = "util-gpui-standalone", version = "1.5.4"}
